@@ -26,4 +26,4 @@ Tenho 16 anos
 ### Contato: 
 Gmail: pietrocontato.ti@gmail.com
 
-Telefone: +55 11 941788156
+Telefone: +55 (11) 941788156
