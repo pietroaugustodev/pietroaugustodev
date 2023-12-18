@@ -24,7 +24,7 @@ Tenho 16 anos, sou técnico em informática.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-augusto-8458682a3/)
 
 ### Contato: 
-<div style='text-decoration: "none"'>
+<div style='text-decoration: none'>
   Email: pietrocontato.ti@gmail.com
 </div>
 
