@@ -25,6 +25,6 @@ Tenho 16 anos, sou técnico em informática.
 
 ### Contato: 
 
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietrocontato.ti@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietrocontato.ti@gmail.com)
 
-Telefone: +55 (11) 94178-8156
+[![WhatsApp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https:wa.me/941788156)
