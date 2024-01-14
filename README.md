@@ -1,6 +1,6 @@
 # Olá, eu sou o Pietro Augusto
 
-Tenho 16 anos, sou técnico em informática.
+Sou técnico em informática, e louco por programação.
 
 
 ### Linguagens que conheço: 
